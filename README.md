@@ -1,8 +1,8 @@
 # DESAFIO-BEEDOO
 
-Plano de teste: https://docs.google.com/spreadsheets/d/1rOLPmGJglk9G03M85TN4lr8e1fiPWkIGx5YcK2_cwFM/edit?usp=sharing
-Controle de Bugs: https://docs.google.com/spreadsheets/d/1fGhqWWYCphBMzrLGBZhtTWo4l3xe6k9lETJEpA-9A8M/edit?usp=sharing
-Evidências no Google Drive: https://drive.google.com/drive/folders/1Q5brCGgkXaA5OreX9dlMqoDAJaFCkH1Q?usp=drive_link
+**Plano de teste:** https://docs.google.com/spreadsheets/d/1rOLPmGJglk9G03M85TN4lr8e1fiPWkIGx5YcK2_cwFM/edit?usp=sharing
+**Controle de Bugs:** https://docs.google.com/spreadsheets/d/1fGhqWWYCphBMzrLGBZhtTWo4l3xe6k9lETJEpA-9A8M/edit?usp=sharing
+**Evidências no Google Drive:** https://drive.google.com/drive/folders/1Q5brCGgkXaA5OreX9dlMqoDAJaFCkH1Q?usp=drive_link
 
 ## Funcionalidade: Cadastrar curso 
 
